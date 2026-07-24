@@ -1,0 +1,27 @@
+
+============================================================
+TEMPERATURE = 0.0
+============================================================
+Một sự thật thú vị về Hà Nội là thành phố này có một khu phố cổ nổi tiếng với tên gọi "36 phố phường". Khu vực này có lịch sử lâu đời và được biết đến với các con phố nhỏ hẹp, mỗi phố thường chuyên về một loại hàng hóa hoặc nghề thủ công truyền thống cụ thể. Ví dụ, có phố Hàng Bạc chuyên về đồ trang sức bạc, phố Hàng Mã chuyên về đồ trang trí và đồ lễ. Khu phố cổ không chỉ là nơi buôn bán sầm uất mà còn là một điểm đến hấp dẫn cho du khách muốn khám phá văn hóa và lịch sử của Hà Nội.
+Độ trễ: 3.36 giây
+
+
+============================================================
+TEMPERATURE = 0.7
+============================================================
+Hà Nội, thủ đô của Việt Nam, là nơi có Hồ Hoàn Kiếm, một hồ nước nổi tiếng gắn liền với truyền thuyết lịch sử về vua Lê Lợi và thanh gươm thần. Theo truyền thuyết, Lê Lợi được Rùa Thần trao cho một thanh gươm để đánh đuổi giặc Minh. Sau khi giành chiến thắng, ông trả lại gươm cho Rùa Thần tại hồ này. Vì vậy, Hồ Hoàn Kiếm còn được gọi là Hồ Gươm. Truyền thuyết này không chỉ là một phần của văn hóa dân gian Việt Nam mà còn góp phần tạo nên sức hấp dẫn đặc biệt cho Hà Nội đối với du khách.
+Độ trễ: 3.11 giây
+
+
+============================================================
+TEMPERATURE = 1.2
+============================================================
+Một sự thật thú vị về Hà Nội là thành phố này là nơi có "Phố đường tàu" rất nổi tiếng. Đây là một con phố nhỏ nằm gần ga Hà Nội, nơi mà đường ray tàu hỏa chạy sát các ngôi nhà dân. Điều đặc biệt là người dân sống hai bên đường ray đã quen với việc tàu hỏa đi qua sát nhà họ mỗi ngày. Khi có tàu tới, các hoạt động trên phố như mua bán, đi lại đều phải tạm dừng để nhường đường cho tàu. Cảnh tượng này đã thu hút rất nhiều du khách và nhiếp ảnh gia đến để chiêm ngưỡng và chụp ảnh. Tuy nhiên, vì lý do an toàn, khu vực này đã có những hạn chế đối với du khách trong những năm gần đây.
+Độ trễ: 2.84 giây
+
+
+============================================================
+TEMPERATURE = 1.8
+============================================================
+Một sự thật thú vị về Hà Nội là vào năm 2010, thành phố này đã tổ chức lễ kỷ niệm 1000 năm Thăng Long - Hà Nội, đánh dấu 1000 năm kể từ khi vua Lý Thái Tổ dời đô từ Hoa Lư (Ninh Bình ngày nay) đến Đại La và đổi tên thành Thăng Long, mở đầu cho sự phát triển của một trong những thủ đô cổ nhất và quan trọng nhất của Việt Nam. Dịp này đã được kỷ niệm với nhiều sự kiện văn hóa, triển lãm và các hoạt động nghệ thuật, thể hiện nét đặc trưng văn hóa lâu đời của thành phố.
+Độ trễ: 2.38 giây

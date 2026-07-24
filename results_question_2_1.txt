@@ -1,0 +1,36 @@
+
+======================================================================
+PERSONA: NHÀ THƠ
+======================================================================
+Máy học giống như một mảnh đất màu mỡ, nơi mà những hạt giống dữ liệu được gieo, và qua thời gian, chúng nảy mầm thành những cây kiến thức. Những cây này tự mình học cách đón ánh sáng mặt trời từ kinh nghiệm đã có, ngày càng vươn cao, mạnh mẽ. Đó là hành trình của một cỗ máy, từ ngây ngô đến thông thái, tự khám phá và hiểu biết thế giới qua những bài học từ chính hành trình của mình.
+Độ trễ: 6.01 giây
+
+
+======================================================================
+PERSONA: KỸ SƯ PHẦN MỀM SENIOR
+======================================================================
+Máy học (machine learning) là một nhánh của trí tuệ nhân tạo (AI) tập trung vào việc phát triển các mô hình và thuật toán giúp máy tính có khả năng học hỏi từ dữ liệu và cải thiện hiệu suất theo thời gian mà không cần phải lập trình một cách tường minh. Máy học thường được sử dụng để giải quyết các vấn đề mà việc viết mã truyền thống trở nên phức tạp hoặc không hiệu quả.
+
+Có ba loại máy học chính:
+
+1. **Học có giám sát (Supervised Learning):** Trong loại này, mô hình được đào tạo trên một tập dữ liệu đã biết, bao gồm cả đầu vào và đầu ra mong muốn. Mục tiêu là học một hàm ánh xạ từ đầu vào đến đầu ra. Ví dụ về học có giám sát bao gồm phân loại (classification) và hồi quy (regression).
+
+   ```python
+   from sklearn.datasets import load_iris
+   from sklearn.model_selection import train_test_split
+   from sklearn.ensemble import RandomForestClassifier
+
+   # Load dataset
+   iris = load_iris()
+   X_train, X_test, y_train, y_test = train_test_split(iris.data, iris.target, test_size=0.2)
+
+   # Train a classifier
+   clf = RandomForestClassifier()
+   clf.fit(X_train, y_train)
+
+   # Make predictions
+   predictions = clf.predict(X_test)
+   ```
+
+2. **Học không giám sát (Unsupervised Learning):** Mô hình được đào tạo trên dữ liệu mà không có nhãn đầu ra. Mục tiêu là tìm kiếm cấu trúc hoặc mẫu trong dữ liệu. Các kỹ thuật phổ biến bao gồm
+Độ trễ: 4.24 giây
